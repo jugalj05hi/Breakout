@@ -11,7 +11,7 @@ The following docs below are generated through 'Doxygen' and gives you an overvi
 [Architecture Docs](docs/html/index.html)
 
 ## Target Systems 
-    MacOS BigSur x64 architecture. 
+- MacOS BigSur x64 architecture. 
 ## How to Run the game 
 ### Building the game 
 - Install the following frameworks 
