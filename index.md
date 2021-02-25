@@ -44,7 +44,7 @@ The following docs below are generated through 'Doxygen' and gives you an overvi
 - The codebase could be abstracted even more to make it look clean and optimize it. For instance, the methods in Breakout.cpp could be abstracted with the help of inheritance. The same goes for various entities of the game including paddle, ball and bricks. All of them could inherit from a parent class that has some common function like collide, hasIntersection and etc. 
  - Gameplay wise, one could add more fun elements such as powerups and extra lives. Having said that, one could also add support for chosing different lenght of paddles. The bigger paddles move slowly while the shorter paddles have faster movement speed. This could add some level of complexity and decision making in the game. 
  - Aesthetically, one could also add theme features. Such as  space theme, wildwest theme and etc. Having different themes to chosse from could spice up things for the user. 
-### Markdown
+<!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -74,4 +74,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
