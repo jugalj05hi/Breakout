@@ -1,0 +1,5 @@
+<map id="Ball" name="Ball">
+<area shape="rect" id="node1" title="Represents Ball in the game." alt="" coords="69,139,113,165"/>
+<area shape="rect" id="node2" href="$class_vec2.html" title="Vec2 will abstract X&amp;Y position for ball and paddle." alt="" coords="5,5,57,32"/>
+<area shape="rect" id="node3" href="$class_resource_manager.html" title="The resource manager is responsible for handling and managing resources regarding the game." alt="" coords="89,5,217,32"/>
+</map>

@@ -2,6 +2,9 @@
 
 This is my attempt to make a remake the famous retro game Breakout
 
+## Game Docs
+[Link](docs/html/index.html)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
