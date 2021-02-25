@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Breakout
 
-You can use the [editor on GitHub](https://github.com/jugalj05hi/Breakout/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my attempt to make a remake the famous retro game Breakout
 
 ### Markdown
 
