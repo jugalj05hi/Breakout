@@ -33,7 +33,7 @@ The following docs below are generated through 'Doxygen' and gives you an overvi
     - Further, you can toggle the language on-the-go by pressing the 'L' key while in the game
 
 # Game Trailer 
-[![Trailer](https://res.cloudinary.com/marcomontalbano/image/upload/v1614248243/video_to_markdown/images/youtube--2NicpXnlUmM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/2NicpXnlUmM "Trailer")
+[![Breakout](https://res.cloudinary.com/marcomontalbano/image/upload/v1616032648/video_to_markdown/images/youtube--ZvIxED4Fa7E-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/ZvIxED4Fa7E "Breakout")
 
 # Game Screenshots 
 ![Image](docs/media/screenshots/1.png)
