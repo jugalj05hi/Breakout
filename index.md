@@ -21,7 +21,7 @@ The following docs below are generated through 'Doxygen' and gives you an overvi
     - [SDL2_ttf](https://www.libsdl.org/projects/SDL_ttf/)
     - [SDL2_mixer](https://www.libsdl.org/projects/SDL_mixer/)
     - [SDL2_images](https://www.libsdl.org/projects/SDL_image/)
-- Download and Extra the following ZIP file to a folder. 
+- Download and Extract the following ZIP file to a folder. 
     - [Game.zip](Installation/Game.zip)
 - After Extracting open the terminal and run the following command inside of the Game folder
     ``` python build.py ```
