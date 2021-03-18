@@ -8,7 +8,7 @@ This is my attempt to remake the famous retro game Breakout with notably good FP
 
 # Code Architecture 
 The following docs below are generated through 'Doxygen' and gives you an overview of the game code base and architecture
-[Architecture Docs](docs/html/index.html)
+[Architecture Docs](docs/html/annotated.html)
 
 # Target Systems 
 - MacOS BigSur x64 architecture. 
