@@ -40,9 +40,9 @@ The following docs below are generated through 'Doxygen' and gives you an overvi
 [![Breakout](https://res.cloudinary.com/marcomontalbano/image/upload/v1616032648/video_to_markdown/images/youtube--ZvIxED4Fa7E-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/ZvIxED4Fa7E "Breakout")
 
 # Game Screenshots 
-![Image](media/screenshots/1.png)
-![Image](media/screenshots/2.png)
-![Image](media/screenshots/3.png)
+![Image](media/1.png)
+![Image](media/2.png)
+![Image](media/3.png)
 
 # Post Mortem
 - The codebase could be abstracted even more to make it look clean and optimize it. For instance, the methods in Breakout.cpp could be abstracted with the help of inheritance. The same goes for various entities of the game including paddle, ball and bricks. All of them could inherit from a parent class that has some common function like collide, hasIntersection and etc. 
