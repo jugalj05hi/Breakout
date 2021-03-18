@@ -1,0 +1,4 @@
+<map id="Paddle" name="Paddle">
+<area shape="rect" id="node1" title="Represents Paddle in the game." alt="" coords="5,95,68,121"/>
+<area shape="rect" id="node2" href="$class_vec2.html" title="Vec2 will abstract X&amp;Y position for ball and paddle." alt="" coords="11,5,63,32"/>
+</map>
