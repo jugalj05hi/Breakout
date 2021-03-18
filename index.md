@@ -32,6 +32,10 @@ The following docs below are generated through 'Doxygen' and gives you an overvi
 - If you want to run the game in French, then type the following on the terminal ``` ./breakout french```
     - Further, you can toggle the language on-the-go by pressing the 'L' key while in the game
 
+### Editing levels
+- If you want to edit levels as per user's liking, it can be done in the config file. Inside of config folders you'll find serveral level.txt files.
+- Inside of those text files is an array of the brick map. '1' represents brick and '0' represents empty space. 
+- Feel free to play around with the levels. 
 # Game Trailer 
 [![Breakout](https://res.cloudinary.com/marcomontalbano/image/upload/v1616032648/video_to_markdown/images/youtube--ZvIxED4Fa7E-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/ZvIxED4Fa7E "Breakout")
 
